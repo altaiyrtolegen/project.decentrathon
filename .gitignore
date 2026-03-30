@@ -1,0 +1,12 @@
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+node_modules/
+.next/
+dist/
+legal-mvp/node_modules/
+legal-mvp/.next/
+legal-mvp/example/ux/node_modules/
+legal-mvp/example/ux/dist/
